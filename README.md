@@ -1,6 +1,6 @@
 # Engine Mendeym
 
-[Release Link](https://github.com/Snip2Fou/Releases/releases/tag/HoverRacing)
+[Release Link](https://github.com/Snip2Fou/EngineMendeym/releases/tag/Release)
 
 
 ## Table of Content
