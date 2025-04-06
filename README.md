@@ -34,17 +34,14 @@ Engine Mendeym est un mini moteur de jeu custom, développer en C++ avec l'API g
 
 
 ### Nos Librairies <a name="LibrairiesFr"></a>
-<details>
- <summary>Nos Librairies</summary>
 
- ***Voici les différents librairie que nous utilisons:***
- * DirectXColors
- * DirectXMath
- * d3d12
- * dxgi1_4
- * WinSock2
- * WS2tcpip
-</details>
+***Voici les différents librairie que nous utilisons:***
+* DirectXColors
+* DirectXMath
+* d3d12
+* dxgi1_4
+* WinSock2
+* WS2tcpip
 
 
 ## English <a name="Anglais"></a>
@@ -64,18 +61,14 @@ Engine Mendeym is a custom mini-game engine, developed in C++ with the DirectX12
 
 
 ### Our Librairies <a name="LibrariesEn"></a>
-<details>
- <summary>Our Librairies</summary>
 
- ***Here are the different libraries we use:***
- * DirectXColors
- * DirectXMath
- * d3d12
- * dxgi1_4
- * WinSock2
- * WS2tcpip
-</details>
-
+***Here are the different libraries we use:***
+* DirectXColors
+* DirectXMath
+* d3d12
+* dxgi1_4
+* WinSock2
+* WS2tcpip
 
 
 ## Credits <a name="Credits"></a>
